@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+[![Star history](https://sh-svg.onrender.com/?secret=Z2hwXzlNNXNhbXJGU29nWE5uRW15NXQ2MFo1dVRGdXZnaDBOV0Q4Rg==&repos=justmemos/memos&type=Date)](https://star-history.com/#justmemos/memos&Date)
+
+
+
 <!--
 **realLeonardo/realLeonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
