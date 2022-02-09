@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Star history](https://sh-svg.onrender.com/?secret=Z2hwXzlNNXNhbXJGU29nWE5uRW15NXQ2MFo1dVRGdXZnaDBOV0Q4Rg==&repos=justmemos/memos&type=Date)](https://star-history.com/#justmemos/memos&Date)
+[![Star history](https://sh-svg.onrender.com/?secret=Z2hwXzlNNXNhbXJGU29nWE5uRW15NXQ2MFo1dVRGdXZnaDBOV0Q4Rg==&repos=justmemos/memos&type=Timeline)](https://star-history.com/#justmemos/memos&Date)
 
 
 
