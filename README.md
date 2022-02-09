@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Star history](https://sh-svg.onrender.com/svg?secret=Z2hwXzlNNXNhbXJGU29nWE5uRW15NXQ2MFo1dVRGdXZnaDBOV0Q4Rg==&repos=bytebase/star-history&type=Date)](https://star-history.com/#bytebase/star-history&Date)
+[![Star history chart](https://sh-svg.onrender.com/svg?secret=Z2hwXzlNNXNhbXJGU29nWE5uRW15NXQ2MFo1dVRGdXZnaDBOV0Q4Rg==&repos=bytebase/star-history&type=Date)](https://test-e0rd.onrender.com/#bytebase/star-history&Date)
 
 
 
