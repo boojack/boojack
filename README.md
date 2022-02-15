@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-[![Star history chart](https://api.star-history.com/svg?repos=bytebase/star-history&type=Date)](https://test-e0rd.onrender.com/#bytebase/star-history&Date)
-
-
-
 <!--
 **realLeonardo/realLeonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
